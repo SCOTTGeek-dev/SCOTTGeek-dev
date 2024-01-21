@@ -1,7 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="youness-hamdaoui-4b269b201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/youness-hamdaoui-4b269b201?trk=profile-badge">Youness HAMDAOUI</a></div>
-              
-              
+                      
 <h1 align="center">Hi 👋, I'm HAMDAOUI Youness</h1>
 <h3 align="center">A Moroccan CyberSecurity enthusiast</h3>
 
